@@ -3,3 +3,4 @@ cat
 rabbit
 tiger
 lion
+Wolf
